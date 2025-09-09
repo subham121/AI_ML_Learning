@@ -1,0 +1,32 @@
+{
+  "data": [
+  {
+    "name": "Sample_1",
+    "description": "This is a sample JSON file.",
+    "items": [
+      {
+        "id": 1,
+        "value": "Item One"
+      },
+      {
+        "id": 2,
+        "value": "Item Two"
+      }
+    ]
+  },
+  {
+    "name": "Sample_2",
+    "description": "This is another sample JSON file.",
+      "items": [
+          {
+              "id": 3,
+              "value": "Item Three"
+          },
+          {
+              "id": 4,
+              "value": "Item Four"
+          }
+          ]
+  }
+]
+}
